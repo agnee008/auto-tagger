@@ -37,7 +37,7 @@ Auto-Tagger scans all your AWS resources and intelligently generates tags based 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/aws-auto-tagger.git
+git clone https://github.com/agnee008/aws-auto-tagger.git
 cd aws-auto-tagger
 
 # Install dependencies
@@ -80,8 +80,8 @@ Looks up CloudTrail events to find who created each resource:
 
 ```python
 # Automatically tagged:
-Owner: john.smith
-CreatedBy: john.smith@company.com
+Owner: agni.banerjee
+CreatedBy: agni.banerjee@company.com
 CreatedDate: 2024-02-14
 ```
 
