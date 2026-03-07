@@ -113,8 +113,8 @@ Auto-generated tags:
 |-----|--------|---------|
 | Team | Resource name pattern | payments |
 | Environment | Name or account | production |
-| Owner | CloudTrail event | john.smith |
-| CreatedBy | CloudTrail event | john.smith@company.com |
+| Owner | CloudTrail event | agni.banerjee |
+| CreatedBy | CloudTrail event | agni.banerjee@company.com |
 | CreatedDate | CloudTrail event | 2024-02-14 |
 | ManagedBy | Auto-tagger | aws-auto-tagger |
 | LastTaggedDate | Current date | 2024-02-14 |
