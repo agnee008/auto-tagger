@@ -36,7 +36,7 @@ Auto-Tagger scans all your AWS resources and intelligently generates tags based 
 ### Installation
 
 ```bash
-# Clone repository
+# Clone the repository
 git clone https://github.com/agnee008/aws-auto-tagger.git
 cd aws-auto-tagger
 
