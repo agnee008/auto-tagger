@@ -2,7 +2,7 @@
 
 Intelligent AWS resource tagging system that automatically tags your resources by inferring tags from naming patterns, CloudTrail events, and existing tag patterns.
 
-## The Problem
+## The Problem (redundant)
 
 - Developers forget to tag resources
 - Manual tagging is tedious and doesn't scale
